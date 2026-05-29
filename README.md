@@ -16,5 +16,5 @@ This project analyzes coffee shop retail sales data using Microsoft Excel dashbo
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png.png)
 
